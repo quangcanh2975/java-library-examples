@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatis-example" />
+        <module name="okhttp3-example" />
+        <module name="rabbitmq-example" />
+        <module name="unirest-example" />
+        <module name="hibernate-example" />
+        <module name="elves-example" />
+        <module name="webmagic-example" />
+        <module name="commons-email-example" />
+        <module name="ohmyemail-example" />
+        <module name="mina-example" />
+        <module name="embedded-jetty-example" />
+        <module name="kafka-example" />
+        <module name="common-beans" />
+        <module name="jedis-example" />
+        <module name="gson-exmaple" />
+        <module name="poi-excel-example" />
+        <module name="zxing-example" />
+        <module name="freemarker-example" />
+        <module name="commons-logging-example" />
+        <module name="sql2o-example" />
+        <module name="encrypt-example" />
+        <module name="jxl-excel-example" />
+        <module name="httpclient4-example" />
+        <module name="blade-jdbc-example" />
+        <module name="log4j-example" />
+        <module name="ohmyrequest-example" />
+        <module name="guava-cache-example" />
+        <module name="logback-example" />
+        <module name="rocketmq-example" />
+        <module name="tensorflow-example" />
+        <module name="netty-example" />
+        <module name="rss-example" />
+        <module name="compress-example" />
+        <module name="fastjson-example" />
+        <module name="slf4j-example" />
+        <module name="jetbrick-example" />
+        <module name="dbutils-example" />
+        <module name="velocity-example" />
+        <module name="mapdb-example" />
+        <module name="metrics-example" />
+        <module name="jackson-example" />
+        <module name="quartz-example" />
+        <module name="crawler4j-example" />
+        <module name="gui-example" />
+        <module name="yaml-example" />
+        <module name="ehcache-example" />
+        <module name="jooq-example" />
+        <module name="qrgen-example" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
